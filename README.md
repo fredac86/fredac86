@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning BIG DATA AND SQL
 - 💞️ I’m looking to collaborate on MY CAREER
 - 📫 How to reach me fred.materiais@gmail.com or +55(11)981142091
+- LinkedIn: https://www.linkedin.com/in/frederico-camargo-35b3361a4/
 
 <!---
 fredac86/fredac86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
