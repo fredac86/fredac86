@@ -2,7 +2,7 @@
 Sou Cientista de dados Júnior com enfase em python, pandas, SQL e Numpy!
 <br />
 
-- 💼 Para me contactar, me enviar um [email](mailto:fred.materiais@gmail.com) 
+- 💼 Para me contactar, me enviar um email: fred.materiais@gmail.com 
 - Me envie também uma mensagem no meu linkedin -> <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/">  <img align="end" alt="Frederico LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
