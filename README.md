@@ -2,9 +2,8 @@
 Sou Cientista de dados Júnior!
 
 <div>
-💼 Para me contactar, me enviar um email: fred.materiais@gmail.com 
- 
-Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/">  <img align="end" alt="Frederico LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+💼 Para me contactar, me enviar um email: fred.materiais@gmail.com  
+Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/"> <img align="end" alt="Frederico LinkedIN" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -14,5 +13,4 @@ Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/f
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-</div>
  
