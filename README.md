@@ -21,6 +21,6 @@ Sou Cientista de dados Júnior com enfase em python, pandas, SQL e Numpy!!
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
 
 
-📈 my github stats
+                                                            📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
