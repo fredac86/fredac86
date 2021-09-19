@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Frederico Camargo!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=fredac86.fredac86)
-   🚀🚀🚀 **Sou Cienista de Dados**       
+   🚀🚀🚀 **Sou Cientista de Dados!**        
  <div>
   <a href="https://github.com/fredac86">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
