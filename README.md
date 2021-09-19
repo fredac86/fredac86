@@ -13,5 +13,6 @@ Sou Cientista de dados Júnior!
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
+
                                                             📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=gotham" alt="fredac86" />
