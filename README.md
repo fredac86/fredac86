@@ -11,5 +11,5 @@ Sou Cientista de dados Júnior!
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
  
-<div>
+
 💼 Para me contactar, me enviar um email: fred.materiais@gmail.com  
