@@ -15,6 +15,7 @@
   <img align="center" alt="Fred-Jpt" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Fred-Lnx" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ 
   <img align="right" alt="Fred-gif" src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47snl0qhiqoiqpsdaaq5qe4hox4jsdrapku6llk7cg&rid=giphy.gif&ct=g">
 </div>
   
