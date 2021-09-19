@@ -32,3 +32,5 @@
   ![Snake animation](https://github.com/fredac86/fredac86/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+<img align="center" alt="Fred-Lnx" height="10" width="10" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
