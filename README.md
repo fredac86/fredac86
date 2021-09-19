@@ -17,6 +17,3 @@ Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/f
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 </div>
  
-
-                                                            📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=gotham" alt="fredac86" />
