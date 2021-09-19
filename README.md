@@ -16,6 +16,7 @@
   <img align="center" alt="Fred-Jpt" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Fred-Lnx" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="Fred-Lnx" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
   
   ##
  
@@ -26,7 +27,7 @@
    <a href="https://www.kaggle.com/fredericocamargo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/MZaAQF8R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="@FredericoCamargo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Fred-Lnx" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
+  
 
   
  
