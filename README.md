@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frederico Camargo
 - 👀 I’m interested in DATA SCIENCE AND DATA ANALYTICS
-- 🌱 I’m currently learningPANDAS, SQL, NUMPY.
+- 🌱 I’m currently learning PANDAS, SQL, NUMPY.
 - 💞️ I’m looking to collaborate on MY CAREER
 - 📫 How to reach me fred.materiais@gmail.com or +55(11)981142091
 - LinkedIn: https://www.linkedin.com/in/frederico-camargo-35b3361a4/
