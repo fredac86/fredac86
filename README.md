@@ -11,4 +11,5 @@ Sou Cientista de dados Júnior!
  
 <div>
 💼 Para me contactar, me enviar um email: fred.materiais@gmail.com  
-Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/"> <img align="end" alt="Frederico LinkedIN" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+ Me envie também uma mensagem no linkedin <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/"> <img align="end" alt="Frederico LinkedIN" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
