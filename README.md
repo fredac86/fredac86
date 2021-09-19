@@ -33,4 +33,4 @@
  
 </div>
  
-<img align="center" alt="Fred-Lnx" height="10" width="10" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
+<img align="center" alt="Fred-Lnx" height="50" width="50" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
