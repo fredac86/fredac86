@@ -15,7 +15,7 @@
   <img align="center" alt="Fred-Jpt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Fred-Lnx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Fred-gif" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47cejhmw8gw5h5ljzasj5h9ebt03nv7zl1b6qxzsxp&rid=giphy.gif&ct=g">
+  <img align="right" alt="Fred-gif" src="https://media.giphy.com/media/Qq7XAPjyzW1mu8B7VH/giphy-downsized.gif?cid=ecf05e47xgdngjy8ywax3tenk6cfckjvf8gxxb4k4sbabull&rid=giphy-downsized.gif&ct=g">
 </div>
   
   ##
@@ -24,7 +24,7 @@
    <a href = "mailto:fred.materiais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/fredac86/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-   <a href="alunos-dhbr.slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+   <a href="https://www.kaggle.com/fredericocamargo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/MZaAQF8R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
  
