@@ -9,7 +9,7 @@
    
 </div>
 
- 🛠⚙ **Algumas Ferramentas que Utilizo:**
+ 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
