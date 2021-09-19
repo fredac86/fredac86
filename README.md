@@ -1,7 +1,5 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/">
   <img align="left" alt="Frederico LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -16,7 +14,7 @@ Olá! Sou o Frederico! Sou Cientista de dados Júnior com enfase em python, pand
   <img align="right" alt="GIF" src="https://github.com/fredac86/fredac86/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 [email](mailto:fred.materiais@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+
 
 **languages and tools:**  
 
