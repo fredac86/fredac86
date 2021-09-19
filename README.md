@@ -24,24 +24,6 @@ Olá! Sou o Frederico! Sou Cientista de dados Júnior com enfase em python, pand
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          12 hrs 49 mins  ████████████████░░░░░░░░░   63.68 % 
-JavaScript   7 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   36.11 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-```
-<!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 my github stats
 
