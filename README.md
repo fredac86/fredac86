@@ -7,7 +7,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/>
 </div>
- **Principais Ferramentas que Utilizo**
+ 
+ ***Principais Ferramentas que Utilizo***
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
