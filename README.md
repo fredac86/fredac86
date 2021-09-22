@@ -12,8 +12,8 @@
   <img align="center" alt="Fred-Jpt" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://www.seekpng.com/png/detail/194-1946302_collection-of-free-penguin-svg-copyright-free-linux.png">
-  <img align="right" alt="Fred-Lnx" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
+  <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://seekicon.com/free-icon-download/linux_2.svg">
+  <img align="right" alt="Fred-gif" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
   
   ##
  
