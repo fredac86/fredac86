@@ -11,7 +11,7 @@
   <img align="center" alt="Fred-Pd" height="50" width="70" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
   <img align="center" alt="Fred-Jpt" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Fred-Wnd" height="50" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Windows_logo_-_2012_%28purple%29.svg">
+  <img align="center" alt="Fred-Wnd" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Windows_logo_-_2012_%28purple%29.svg">
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://seekicon.com/free-icon-download/linux_2.svg">
   <img align="right" alt="Fred-gif" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
   
