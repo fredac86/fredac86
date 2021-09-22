@@ -18,7 +18,7 @@
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://seekicon.com/free-icon-download/linux_2.svg">
   <img align="right" alt="Fred-gif" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
 </div>   
-  ##
+ 
  
 <div> 
    <a href = "mailto:fred.materiais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
