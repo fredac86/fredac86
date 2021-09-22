@@ -10,7 +10,7 @@
   <img align="center" alt="Fred-Np" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Fred-Pd" height="40" width="60" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
   <img align="center" alt="Fred-Jpt" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Fred-sql" height="50" width="55" src="https://img.icons8.com/color-glass/48/000000/sql.png">
+  <img align="center" alt="Fred-sql" height="50" width="40" src="https://img.icons8.com/color-glass/48/000000/sql.png">
   <img align="center" alt="Fred-Wnd" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="right" alt="Fred-Lnx" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
