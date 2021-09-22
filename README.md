@@ -4,9 +4,11 @@
   <a href="https://github.com/fredac86">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=merko"/>
+     
+  ##
  
 </div>
-   ##
+   
    
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
