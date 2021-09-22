@@ -9,6 +9,7 @@
    
   
 <div style="display: inline_block"><br>
+   ##Ferramentas:
   <img align="center" alt="Fred-Py" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
   <img align="center" alt="Fred-Pd" height="50" width="70" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
