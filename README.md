@@ -1,4 +1,4 @@
-## Olá! Eu sou o Frederico Camargo! Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=fredac86.fredac86&left_color=deepgreen&right_color=blue)
+## Olá! Eu sou o Frederico Camargo! Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=fredac86.fredac86&left_color=#4a8a31&right_color=blue)
   ## 🚀🚀🚀 **Sou Cientista de Dados! Fique à vontade para explorar meu portfólio!**         
  <div>
   <a href="https://github.com/fredac86">
