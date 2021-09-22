@@ -16,7 +16,7 @@
   <img align="right" alt="Fred-Lnx" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
   
   ##
- 
+      **Meus Contatos!** 
 <div> 
    <a href = "mailto:fred.materiais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/frederico-de-andrade-camargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
