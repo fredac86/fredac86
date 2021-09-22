@@ -9,7 +9,7 @@
   <img align="center" alt="Fred-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Fred-Pd" height="40" width="60" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
-  <a href="http://getdrawings.com/sql-icon" title="Sql Icon"><img src="http://getdrawings.com/free-icon/sql-icon-61.png" width="350" /></a>
+  <a href="http://getdrawings.com/sql-icon" title="Sql Icon"><img src="http://getdrawings.com/free-icon/sql-icon-61.png" width="40" /></a>
   <img align="center" alt="Fred-Jpt" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
