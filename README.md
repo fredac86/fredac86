@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fred-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Fred-Py" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
   <img align="center" alt="Fred-Pd" height="50" width="70" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
   <img align="center" alt="Fred-Jpt" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
