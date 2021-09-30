@@ -7,7 +7,7 @@
 
 </div>
   
-<h3>🛠⚙Ferramentas que eu uso:</h3> <img align="right" alt="Fred-gif" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
+<h3>🛠Ferramentas que eu uso:</h3> <img align="right" alt="Fred-gif" height="150" width="160" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Np" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
