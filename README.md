@@ -15,6 +15,7 @@
   <img align="center" alt="Fred-Jpt" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fred-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Fred-Wnd" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Windows_logo_-_2012_%28purple%29.svg">
+  <img align="center" alt="Fred-Wnd" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png"
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://seekicon.com/free-icon-download/linux_2.svg">
   
 </div>   
