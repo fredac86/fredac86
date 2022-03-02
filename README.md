@@ -17,6 +17,7 @@
   <img align="center" alt="Fred-Wnd" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Windows_logo_-_2012_%28purple%29.svg">
   <img align="center" alt="Fred-Wnd" height="40" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png?20200507062021">
   <img align="center" alt="Fred-Wnd" height="35" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png"
+  <img align="center" alt="Fred-Wnd" height="35" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
   <img align="center" alt="Fred-Lnx" height="45" width="55" src="https://seekicon.com/free-icon-download/linux_2.svg">
   
 </div>   
