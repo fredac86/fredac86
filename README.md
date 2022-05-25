@@ -6,10 +6,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
-   ##
-  
-<div>
-
   <img align="center" alt="Fred-gif" height="240" width="640" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
   
 <h3>🛠Ferramentas que utilizo:</h3> 
@@ -36,6 +32,6 @@
    <a href="https://discord.gg/9HSsxN8TeP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://t.me/FredericoCamargo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/fredac86/fredac86/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
