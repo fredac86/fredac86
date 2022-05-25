@@ -6,7 +6,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
-  <img align="center" alt="Fred-gif" height="240" width="640" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
+  <img align="center" alt="Fred-gif" height="240" width="800" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
   
 <h3>🛠Ferramentas que utilizo:</h3> 
 <div style="display: inline_block"><br>
