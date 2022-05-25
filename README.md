@@ -3,11 +3,13 @@
  <div>
   <a href="https://github.com/fredac86">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/> 
 
 </div>
   
-<img align="left" alt="Fred-gif" height="200" width="550" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">  
+<img align="left" alt="Fred-gif" height="200" width="550" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"/>
+<img align="left" alt="Fred-gif" height="200" width="550" src="https://miro.medium.com/max/1400/1*vd0eUSHd76HYg9G4Yxd1eA.gif"/>  
+  
 </div>
 <h3>🛠Ferramentas que utilizo:</h3> 
 <div style="display: inline_block"><br>
