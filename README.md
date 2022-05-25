@@ -12,7 +12,6 @@
 
   <img align="center" alt="Fred-gif" height="300" width="800" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
   
-</div>
 <h3>🛠Ferramentas que utilizo:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
