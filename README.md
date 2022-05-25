@@ -9,7 +9,7 @@
   
 <img align="left" alt="Fred-gif" height="200" width="550" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">  
 </div>
-<h3>🛠Ferramentas que eu uso:</h3> 
+<h3>🛠Ferramentas que utilizo:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
