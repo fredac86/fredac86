@@ -6,15 +6,15 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
-  <img align="center" alt="Fred-gif" height="240" width="730" margin-left: "5px" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
+  <img align="center" alt="Fred-gif" height="240" width="730" src="https://i.pinimg.com/originals/64/d6/bd/64d6bd48f42f75207f052ba6459c1f86.gif">
   
-<h3>🛠Ferramentas que utilizo:</h3> 
+<h3>🛠 Ferramentas que utilizo:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Py" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
   <img align="center" alt="Fred-Pd" height="50" width="70" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
   <img align="center" alt="Fred-Jpt" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Fred-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Fred-sql" height="60" width="60" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
  
   <img align="center" alt="Fred-Wnd" height="40" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png?20200507062021">
   <img align="center" alt="Fred-Wnd" height="35" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png">
