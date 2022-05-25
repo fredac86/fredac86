@@ -7,7 +7,7 @@
 
 </div>
   
-<img align="left" alt="Fred-gif" height="200" width="550" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"/>
+<img align="center" alt="Fred-gif" height="200" width="550" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"/>
   
 </div>
 <h3>🛠Ferramentas que utilizo:</h3> 
