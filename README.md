@@ -1,5 +1,5 @@
-##              Seja bem-vindo(a)! Eu sou o Frederico Camargo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=fredac86.fredac86)
-  ### 🚀  *Sou Engenheiro de Dados. Fique à vontade para explorar meu portfólio!*     
+##              Seja bem-vindo(a)! Eu sou o Frederico Camargo!  ![](https://visitor-badge.glitch.me/badge?page_id=fredac86.fredac86)
+  ###   *Sou Engenheiro de Dados. Fique à vontade para explorar meu portfólio!*     
  <div>
   <a href="https://github.com/fredac86">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
