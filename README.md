@@ -1,19 +1,21 @@
 <h2 align="center">
- <img src="https://s8.gifyu.com/images/cooltext412328354683434.gif" width="600" height="100">     
+ <img src="https://s8.gifyu.com/images/cooltext412366360785179-1.png" width="650" height="100">     
 </h2> 
 <h4 align="center"> Seja bem-vindo(a) ao meu perfil! Eu sou Engenheiro de Dados e amo minha profissão!
   
   Fique à vontade para explorar minha documentação!  
 </h4> 
 <h2 align="center">
- <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/> 
+ <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/>
+ <img src="https://pa1.narvii.com/6547/729728d51c3f2c1125d530c1fdd82d946523f576_hq.gif" width="30" height="30">
  </h2> 
 
   <p align="center">
   <a href="https://github.com/fredac86">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun"/>
-  <img align="center" alt="Fred-gif" height="315" width="620" src="https://64.media.tumblr.com/290557944dc89a2741007c445d6f6de6/tumblr_pm5z65C0hF1qbw2q1o1_1280.gifv"> </p>   
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun">
+  <img align="center" alt="Fred-gif" height="315" width="620" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv"/>
+  </p>   
 
 <div style="display: inline_block" align="center"><br>  
   <h4 align="center">🛠 Algumas Ferramentas que utilizo:</h4>
