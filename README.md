@@ -7,7 +7,7 @@
 </h4> 
 <h2 align="center">
  <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/>
- <img src="https://pa1.narvii.com/6547/729728d51c3f2c1125d530c1fdd82d946523f576_hq.gif" width="30" height="30">
+ <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/34055e20-c430-4760-9a66-0827f898ce14.gif" width="50" height="55">
  </h2> 
 
   <p align="center">
