@@ -1,26 +1,23 @@
+<h2 align="center">
+ <img src="https://s8.gifyu.com/images/cooltext412327694496366.gif"/>     
+</h2> 
 
-<h4 align="center"> Seja bem-vindo(a) ao meu perfil! Eu sou o Frederico Camargo e sou também Engenheiro de Dados.
+<h4 align="center"> Seja bem-vindo(a) ao meu perfil! Eu sou Engenheiro de Dados e amo minha profissão!
   
   Fique à vontade para explorar minha documentação!  
 </h4> 
 <h2 align="center">
- <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=FF8300&style=for-the-badge"/> 
+ <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/> 
  <img src="https://c.tenor.com/G19UN7ZFbl4AAAAi/paraffin-prafin.gif" width="35" height="35">    
 </h2> 
  <div>
   <p align="center">
   <a href="https://github.com/fredac86">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=maroongold"/> 
-    </p> 
-</div>
- <h2 align="center">
-  <img align="center" alt="Fred-gif" height="286" width="498" src="https://c.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif">
-  </h2>
- 
-   
-<div style="display: inline_block" align="center"><br>
-  
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun"/>
+  <img align="center" alt="Fred-gif" height="315" width="620" src="https://64.media.tumblr.com/290557944dc89a2741007c445d6f6de6/tumblr_pm5z65C0hF1qbw2q1o1_1280.gifv">   </p> 
+</div> 
+<div style="display: inline_block" align="center"><br>  
   <h4 align="center">🛠 Algumas Ferramentas que utilizo:</h4>
   <img align="center" alt="Fred-Py" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-Pd" height="40" width="50" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
