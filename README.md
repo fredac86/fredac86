@@ -1,6 +1,6 @@
 <h2 align="center">
- <img src="https://s8.gifyu.com/images/cooltext412366360785179-1.png" width="650" height="100">     
-</h2> 
+ <img src="https://s8.gifyu.com/images/cooltext412665049269384.png" width="850" height="85">     
+</h2>
 <h4 align="center"> Seja bem-vindo(a) ao meu perfil! Eu sou Engenheiro de Dados e amo minha profissão!
   
   Fique à vontade para explorar minha documentação!  
