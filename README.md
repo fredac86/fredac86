@@ -19,15 +19,17 @@
 
 <div style="display: inline_block" align="center"><br>  
   <h4 align="center">🛠 Algumas Ferramentas que utilizo:</h4>
-  <img align="center" alt="Fred-Py" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Fred-Pd" height="40" width="50" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png">
-  <img align="center" alt="Fred-Jpt" height="45" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Fred-sql" height="54" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
-  <img align="center" alt="Fred-Wnd" height="115" width="115" src="https://iconape.com/wp-content/files/bj/349525/svg/databricks-seeklogo.com.svg">
+  <img align="center" alt="Fred-Py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Fred-sql" height="60" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+  <img align="center" alt="Fred-Lnx" height="55" width="60" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg">
+  <img align="center" alt="Fred-datafactory" height="50" width="55" src="https://consultabd.files.wordpress.com/2020/02/img000_adf01.jpg">
+  <img align="center" alt="Fred-powerapps" height="60" width="60" src="https://static.tildacdn.com/tild3738-6163-4437-b461-383163343036/powerapps.png">
+
+  <img align="center" alt="Fred-Wnd" height="40" width="58" src="https://cdn.thenewstack.io/media/2022/04/d5859667-databricks-logo.png">
   <img align="center" alt="Fred-Wnd" height="30" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png">
-  <img align="center" alt="Fred-Lnx" height="40" width="49" src="https://seekicon.com/free-icon-download/linux_2.svg">
-  <img align="center" alt="Fred-Lnx" height="50" width="60" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg">
-  <img align="center" alt="Fred-Lnx" height="50" width="145" src="https://www.mentromax.com/img/Azure-Data-Factory-Logo.png">
+  <img align="center" alt="Fred-Lnx" height="40" width="90" src="https://aptude.com/wp-content/uploads/2021/12/powerbi_logo-1.png">
+  
+  
  
 </div>   
  
