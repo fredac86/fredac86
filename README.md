@@ -12,8 +12,8 @@
 
   <p align="center">
   <a href="https://github.com/fredac86">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun">
+  <!img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
+  <!img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun">
   
   <img align="center" alt="Fred-gif" height="396" width="660" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv"/>
   </p>   
