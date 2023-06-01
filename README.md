@@ -28,8 +28,7 @@
 
   <img align="center" alt="Fred-Wnd" height="40" width="58" src="https://cdn.thenewstack.io/media/2022/04/d5859667-databricks-logo.png">
   <img align="center" alt="Fred-Wnd" height="30" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png">
-  <img align="center" alt="Fred-Lnx" height="40" width="90" src="https://aptude.com/wp-content/uploads/2021/12/powerbi_logo-1.png">
-  
+   
   
  
 </div>   
