@@ -28,6 +28,7 @@
 
   <img align="center" alt="Fred-Wnd" height="40" width="58" src="https://cdn.thenewstack.io/media/2022/04/d5859667-databricks-logo.png">
   <img align="center" alt="Fred-Wnd" height="30" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png">
+ <img align="center" alt="Fred-aws" height="60" width="60" src="https://i.ibb.co/NNG2dmT/aws.png">
    
   
  
