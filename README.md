@@ -15,7 +15,7 @@
   <!img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
   <!img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun">
   
-  <img align="center" alt="Fred-gif" height="396" width="660" src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif"/>
+  <img align="center" alt="Fred-gif" height="396" width="660" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv"/>
   </p>   
 
 <div style="display: inline_block" align="center"><br>  
