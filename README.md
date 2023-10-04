@@ -1,9 +1,9 @@
 <h2 align="center">
  <img src="https://s8.gifyu.com/images/cooltext412665049269384.png" width="850" height="85">     
 </h2>
-<h4 align="center"> Seja bem-vindo(a) ao meu perfil! Eu sou Engenheiro de Dados e amo minha profissão!
+<h4 align="center"> Seja bem-vindo(a) ao meu GitHub! Olhe a vontade os meus códigos!
   
-  Fique à vontade para explorar minha documentação!  
+    
 </h4> 
 <h2 align="center">
  <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/>
