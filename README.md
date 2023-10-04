@@ -1,5 +1,5 @@
 <h2 align="center">
- <img src="https://s8.gifyu.com/images/cooltext412665049269384.png" width="850" height="85">     
+ <img src="https://s8.gifyu.com/images/cooltext412665049269384.png" width="800" height="80">     
 </h2>
 <h4 align="center"> Seja bem-vindo(a) ao meu GitHub! Sou Engenheiro de dados!
   
