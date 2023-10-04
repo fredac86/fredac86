@@ -1,13 +1,13 @@
 <h2 align="center">
  <img src="https://s8.gifyu.com/images/cooltext412665049269384.png" width="850" height="85">     
 </h2>
-<h4 align="center"> Seja bem-vindo(a) ao meu GitHub! Olhe a vontade os meus códigos!
+<h4 align="center"> Seja bem-vindo(a) ao meu GitHub! Sou Engenheiro de dados!
   
     
 </h4> 
 <h2 align="center">
  <img src="https://komarev.com/ghpvc/?username=fredac86&label=VISITANTES&color=260083&style=for-the-badge"/>
- <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="50" height="55">
+ 
  </h2> 
 
   <p align="center">
@@ -15,15 +15,14 @@
   <!img height="130em" src="https://github-readme-stats.vercel.app/api?username=fredac86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
   <!img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredac86&layout=compact&langs_count=7&theme=outrun">
   
-  <img align="center" alt="Fred-gif" height="396" width="660" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv"/>
+  <img align="center" alt="Fred-gif" height="396" width="660" src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif"/>
   </p>   
 
 <div style="display: inline_block" align="center"><br>  
   <h4 align="center">🛠 Algumas Ferramentas que utilizo:</h4>
   <img align="center" alt="Fred-Py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fred-sql" height="60" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
-  <img align="center" alt="Fred-Lnx" height="55" width="60" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg">
-  <img align="center" alt="Fred-datafactory" height="50" width="55" src="https://consultabd.files.wordpress.com/2020/02/img000_adf01.jpg">
+    <img align="center" alt="Fred-datafactory" height="50" width="55" src="https://consultabd.files.wordpress.com/2020/02/img000_adf01.jpg">
   <img align="center" alt="Fred-powerapps" height="60" width="60" src="https://static.tildacdn.com/tild3738-6163-4437-b461-383163343036/powerapps.png">
 
   <img align="center" alt="Fred-Wnd" height="40" width="58" src="https://cdn.thenewstack.io/media/2022/04/d5859667-databricks-logo.png">
